@@ -1,0 +1,22 @@
+{
+    "name": "virp/marinetraffic",
+    "description": "Marinetraffic ship position parser",
+    "type": "library",
+    "require": {
+        "php": "^7.2",
+        "symfony/dom-crawler": "^4.1",
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "virp",
+            "email": "skvirp@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Virp\\Marinetraffic\\": "src/"
+        }
+    }
+}
