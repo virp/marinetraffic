@@ -1,5 +1,9 @@
 ## Marinetraffic vessel position parser
 
+### Install
+
+`composer require virp/marinetraffic`
+
 ### Using
 
 ```php
